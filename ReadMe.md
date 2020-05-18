@@ -25,3 +25,7 @@ https://docs.microsoft.com/en-us/windows/win32/wmisdk/wmi-start-page
 
 ### 编译
 仅支持 windows 版本，使用 C++11 or 更高即可编译。
+
+### 其他工具
+window系统可以使用系统自带的工具（ComputerHardwareIds.exe）获取 硬件id
+
